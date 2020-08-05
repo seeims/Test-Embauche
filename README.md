@@ -15,9 +15,13 @@ For that you have to :
 - All management should be in REST API a.k.a. our application would be Restfull web app
 
 ### **2. Your weapons :**
+
 **Back-end weapons :** Laravel, MySQL, Axios
+
 **Front-end weapons :** JS, CSS, Bootstrap, ReactJS(if you are stronger enough to handle that magic  🌟💫)
+
 **Ammo :** folk this repo and send us your code repo
+
 **Avanced weapons :** Show us your magical skill by adding more & more.
 
 ### **3. We got your back!**
