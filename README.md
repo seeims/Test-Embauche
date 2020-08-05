@@ -9,6 +9,9 @@ In order to rescue a restaurant from the client apocalypse, we have to develop a
 
 For that you have to :
 - Create POS interface to look like this :
+
+[![posprototype](https://github.com/seeims/Test-Embauche/blob/master/POS.png "posprototype")](https://github.com/seeims/Test-Embauche/blob/master/POS.png "posprototype")
+
 - Allow manager to manage his products(name, qty, category, )
 - Every product needs to be in one or more category
 - Manage all products using Ajax calls
