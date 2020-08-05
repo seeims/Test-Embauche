@@ -1,5 +1,5 @@
 Hello folks 🖐
-Congrats for those who made it to the second round 🎉 and only one more step to make it and become one of SEE Agency heroes 🔥💪
+Congrats for those who made it to the second round 🎉 and only one more step to make it and become one of SEE Digital Agency heroes 🔥💪
 
 ------------
 ### **1. Your Duty :**
