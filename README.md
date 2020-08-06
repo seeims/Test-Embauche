@@ -5,7 +5,7 @@ Congrats for those who made it to the second round 🎉 and only one more step t
 ### **1. Your Duty :**
 In order to rescue a restaurant from the client apocalypse, we have to develop a web application to serve all those hungry client and mute down the "FOOD!FOOOOD!!" screams
 
-[![client apocalypse](https://github.com/seeims/Test_Embauche/blob/master/PinClipart.com_zombie-food.png "client apocalypse")](https://github.com/seeims/Test_Embauche/blob/master/PinClipart.com_zombie-food.png "client apocalypse")
+[![client apocalypse](https://github.com/seeims/Test-Embauche/blob/master/PinClipart.com_zombie-food.png "client apocalypse")](https://github.com/seeims/Test-Embauche/blob/master/PinClipart.com_zombie-food.png "client apocalypse")
 
 For that you have to :
 - Create POS interface to look like this :
